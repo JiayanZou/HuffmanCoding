@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Driver
+comment0.text=\n\ This\ class\ is\ designed\ to\ test\ each\ step\ of\ the\ huffman\ coding\ process\ when\ run\n\ \n\ @author\ Ishaan\ Ivaturi\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=void\ testSortedList(java.lang.String)
+comment3.params=c
+comment3.target=java.lang.String\ charToString(char)
+comment4.params=input
+comment4.target=void\ testMakeTree(java.lang.String)
+comment5.params=root
+comment5.target=void\ printTree(TreeNode)
+comment6.params=n\ indent\ isRight\ isRoot
+comment6.target=void\ printTree(TreeNode,\ java.lang.String,\ boolean,\ boolean)
+comment7.params=input
+comment7.target=void\ testMakeEncodings(java.lang.String)
+comment8.params=input
+comment8.target=void\ testEncode(java.lang.String)
+comment9.params=input
+comment9.target=void\ testDecode(java.lang.String)
+numComments=10

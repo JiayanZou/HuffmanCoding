@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=TreeNode
+comment0.text=\n\ This\ class\ represents\ a\ node\ of\ a\ huffman\ coding\ tree,\n\ and\ contains\ a\ CharFreq\ object\ as\ its\ data\n\ \n\ @author\ Ishaan\ Ivaturi\n
+comment1.params=
+comment1.target=TreeNode()
+comment2.params=d\ l\ r
+comment2.target=TreeNode(CharFreq,\ TreeNode,\ TreeNode)
+comment3.params=
+comment3.target=CharFreq\ getData()
+comment4.params=data
+comment4.target=void\ setData(CharFreq)
+comment5.params=
+comment5.target=TreeNode\ getLeft()
+comment6.params=left
+comment6.target=void\ setLeft(TreeNode)
+comment7.params=
+comment7.target=TreeNode\ getRight()
+comment8.params=right
+comment8.target=void\ setRight(TreeNode)
+numComments=9

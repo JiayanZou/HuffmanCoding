@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=CharFreq
+comment0.text=\n\ This\ class\ contains\ a\ character\ object,\ and\ a\ double\ representing\n\ its\ probability\ of\ occurrence\n\ \n\ @author\ Ishaan\ Ivaturi\n\ @author\ Prince\ Rawal\n
+comment1.params=c\ p
+comment1.target=CharFreq(java.lang.Character,\ double)
+comment2.params=
+comment2.target=CharFreq()
+comment3.params=cf
+comment3.target=int\ compareTo(CharFreq)
+comment4.params=
+comment4.target=java.lang.Character\ getCharacter()
+comment5.params=
+comment5.target=double\ getProbOcc()
+comment6.params=c
+comment6.target=void\ setCharacter(java.lang.Character)
+comment7.params=p
+comment7.target=void\ setProbOcc(double)
+numComments=8

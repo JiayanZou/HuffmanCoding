@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\n\ This\ class\ contains\ a\ generic\ queue\ class\ which\ supports\ \n\ isEmpty,\ size,\ enqueue,\ dequeue,\ and\ peek.\ It\ is\ implemented\n\ using\ a\ circular\ linked\ list.\n\ \n\ @author\ Ishaan\ Ivaturi\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=item
+comment3.target=void\ enqueue(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ dequeue()
+comment5.params=
+comment5.target=java.lang.Object\ peek()
+numComments=6
